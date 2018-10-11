@@ -1,0 +1,3 @@
+[{"foto":"Level1/Apple.png","chars":["B","A","L","P","O","N","J","T","R","S","E","P","K","F","D"],"n":5,"corect":"APPLE"},
+{"foto":"Level1/Cola.png","chars":["T","U","C","D","P","C","O","L","A","F","O","E","A","S","C"],"n":8,"lines":[2,4,4],"corect":"COCACOLA"},
+{"foto":"Level1/Ford.png","chars":["T","F","C","D","P","C","O","L","A","F","O","E","R","S","C"],"n":4,"corect":"FORD"}]
